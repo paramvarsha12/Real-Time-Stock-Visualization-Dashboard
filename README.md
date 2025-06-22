@@ -1,5 +1,5 @@
 # Real-Time-Stock-Visualization-Dashboard
-A simple real-time stock dashboard built with Streamlit and yfinance, designed for data visualization and future price prediction using machine learning
+A real-time stock dashboard built with yfinance, for data visualization and future price prediction using machine learning
 
 ---
 
