@@ -22,9 +22,5 @@ A real-time stock dashboard built with yfinance, for data visualization and futu
 
 ---
 
-## Future Plans
 
-- Add machine learning to predict future stock prices
-- Display predicted vs actual performance
-- Add technical indicators like moving averages
 
